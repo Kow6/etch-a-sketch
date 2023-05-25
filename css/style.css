@@ -3,7 +3,7 @@ header{
 }
 
 .square {
-    color: red;
+    color: rgb(27, 26, 26);
     border: 2px dotted;
     height: 20px;
 }
