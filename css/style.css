@@ -2,7 +2,13 @@ header{
     color: blue;
 }
 
+.container{
+    display: flex;
+}
+
 .square {
+    display: flex;
+    flex: 1;
     color: rgb(27, 26, 26);
     border: 2px dotted;
     height: 20px;
