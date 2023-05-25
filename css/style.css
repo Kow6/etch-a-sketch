@@ -27,5 +27,9 @@ body{
     color: rgb(27, 26, 26);
     outline: solid 1px;
     
+    
 }
 
+.hover{
+    background-color: aqua;
+}
