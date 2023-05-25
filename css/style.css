@@ -2,8 +2,16 @@ header{
     color: blue;
 }
 
-.container{
+.pad{
+    height: 800px;
+    width: 800px;
     display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    flex: 1;
 }
 
 .square {
@@ -13,3 +21,4 @@ header{
     border: 2px dotted;
     height: 20px;
 }
+
